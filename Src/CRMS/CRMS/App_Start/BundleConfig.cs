@@ -24,8 +24,8 @@ namespace CRMS
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
-                      "~/Content/site.css",
-                      "~/Content/adminlte.css"
+                      //"~/Content/site.css",
+                      "~/Content/css/adminlte.css"
                       ));
         }
     }
